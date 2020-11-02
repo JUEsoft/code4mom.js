@@ -3,6 +3,8 @@ code4mom.js is a simple light weight library you can use to create simple web ap
   * manipulate dom 
   * prevent form action 
   *access your web cam
+  *Here Is a Documentation that will guide you through it.
+
 
   ##to write to an element with code4mom.js
   el('h3').print('hello world ) 

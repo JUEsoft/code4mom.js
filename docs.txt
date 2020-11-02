@@ -14,7 +14,7 @@ code4mom.js is a simple light weight library you can use to create simple web ap
   use the el() to get the form tag and use prevent() to stop it action
 
   ## Access web came with code4mom.js just use 
-  el('video).webcam()
+  el('video).webCam()
   the el() get the element of the video and webcam() access your camera
 
   ## hiding and showing element with code4mom.js
@@ -27,7 +27,7 @@ code4mom.js is a simple light weight library you can use to create simple web ap
   el() to get the element and on(//your event , function ) 
   example is 
   el('button).on('click',()=>{
-      alert('hello thid is code4mom.js)
+      alert('hello this is code4mom.js)
   })
   this sample get the element of a button and add a click event to it 
 
